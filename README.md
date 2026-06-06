@@ -65,18 +65,15 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 Last Updated on 06/06/2026 12:54:02 UTC
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
  
 <!--END_SECTION:waka-->
+
+## 🐱 GitHub Metrics
+
+<img src="./github-metrics.svg" />
 
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsCulture2307&theme=github-compact" />
 
-## 🐱 GitHub Metrics
-
-<img src="./github-metrics.svg" />
 
