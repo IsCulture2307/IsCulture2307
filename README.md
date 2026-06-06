@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsCulture2307&theme=github-compact" />
