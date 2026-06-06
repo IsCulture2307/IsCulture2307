@@ -38,8 +38,15 @@ Friday                   252 commits         ████░░░░░░░�
 Saturday                 194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 Sunday                   150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 ```
+**I Mostly Code in Python** 
 
-
+```text
+Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Kotlin                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -57,25 +64,12 @@ No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
 ```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Kotlin                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
+Last Updated on 06/06/2026 12:54:02 UTC
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
-
-
- Last Updated on 06/06/2026 12:54:02 UTC
+ 
 <!--END_SECTION:waka-->
 
 ## 📈 Activity Graph
