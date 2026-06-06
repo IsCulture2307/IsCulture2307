@@ -1,29 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsCulture2307&show_icons=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=IsCulture2307&show_icons=true&theme=transparent" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsCulture2307&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsCulture2307&layout=compact&theme=transparent" />
 
 ## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=IsCulture2307)
+<img src="https://streak-stats.demolab.com?user=IsCulture2307&theme=transparent" />
 
 ## 🏆 Trophy
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=IsCulture2307)
-<!--
-**IsCulture2307/IsCulture2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-profile-trophy.vercel.app/?username=IsCulture2307&theme=flat&no-frame=true" />
 
-Here are some ideas to get you started:
+## 📈 Activity Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsCulture2307&theme=github-compact" />
+
+## ⏱ Coding Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🐱 GitHub Metrics
+
+<img src="./github-metrics.svg" />
