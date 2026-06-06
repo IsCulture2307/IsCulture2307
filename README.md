@@ -1,8 +1,4 @@
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsCulture2307&theme=github-compact" />
-
-## ⏱ Coding Time
+##
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
@@ -85,3 +81,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ## 🐱 GitHub Metrics
 
 <img src="./github-metrics.svg" />
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsCulture2307&theme=github-compact" />
