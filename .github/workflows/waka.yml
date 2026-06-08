@@ -23,4 +23,3 @@ jobs:
           SHOW_OS: true
           SHOW_TOTAL_CODE_TIME: true
           SHOW_PROFILE_VIEWS: true
-          SHOW_LINES_OF_CODE: true
