@@ -90,12 +90,4 @@ Vue                      1 repo              █░░░░░░░░░░�
  Last Updated on 08/06/2026 10:18:21 UTC
 <!--END_SECTION:waka-->
 
-## 🐱 GitHub Metrics
-
-<img src="./github-metrics.svg" />
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsCulture2307&theme=github-compact" />
-
 
