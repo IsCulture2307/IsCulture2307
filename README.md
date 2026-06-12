@@ -1,7 +1,7 @@
 ## ⏱ Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -20,21 +20,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-🌆 Daytime                599 commits         ██████████░░░░░░░░░░░░░░░   41.14 % 
-🌃 Evening                586 commits         ██████████░░░░░░░░░░░░░░░   40.25 % 
+🌞 Morning                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+🌆 Daytime                599 commits         ██████████░░░░░░░░░░░░░░░   41.11 % 
+🌃 Evening                587 commits         ██████████░░░░░░░░░░░░░░░   40.29 % 
 🌙 Night                  68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Tuesday                  234 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Thursday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Friday                   257 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Saturday                 202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Sunday                   151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Monday                   196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Tuesday                  234 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Thursday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Friday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Saturday                 202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Sunday                   151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 ```
 
 
@@ -44,28 +44,28 @@ Sunday                   151 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 43 mins      ████████████░░░░░░░░░░░░░   47.04 % 
-Go                       5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Other                    4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Markdown                 2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Python                   17 hrs 11 mins      ███████████░░░░░░░░░░░░░░   45.43 % 
+Go                       6 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Other                    4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Markdown                 2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Kotlin                   1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-PyCharm                  15 hrs 2 mins       ███████████░░░░░░░░░░░░░░   44.99 % 
-GoLand                   7 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-VS Code                  6 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Claude Code              4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Trae                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+PyCharm                  17 hrs 11 mins      ███████████░░░░░░░░░░░░░░   45.46 % 
+GoLand                   7 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+VS Code                  7 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Claude Code              3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Android Studio           1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🐱‍💻 Projects: 
-crawler-server           14 hrs 21 mins      ███████████░░░░░░░░░░░░░░   42.92 % 
-auth-center-service      11 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   33.90 % 
-Unknown Project          4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-py-agentorder            1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-wallet-auth-tool         45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+crawler-server           15 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   41.39 % 
+auth-center-service      12 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   31.92 % 
+Unknown Project          5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+py-agentorder            1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+FaceCollShell            1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 💻 Operating System: 
-Windows                  33 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  37 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2026 14:35:19 UTC
+ Last Updated on 12/06/2026 19:53:50 UTC
 <!--END_SECTION:waka-->
 
 
