@@ -1,7 +1,7 @@
 ## ⏱ Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -44,28 +44,28 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 39 mins      █████████████████░░░░░░░░   68.33 % 
-Jupyter                  3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Go                       57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-INI                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Vue                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Python                   15 hrs 8 mins       █████████████░░░░░░░░░░░░   51.55 % 
+Jupyter                  10 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   36.35 % 
+Go                       57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+INI                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Vue                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-PyCharm                  17 hrs 2 mins       █████████████████████░░░░   85.26 % 
-GoLand                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-VS Code                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Trae                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Android Studio           21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+PyCharm                  25 hrs 57 mins      ██████████████████████░░░   88.37 % 
+GoLand                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Trae                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+VS Code                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Android Studio           21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🐱‍💻 Projects: 
-py-agentorder            8 hrs 45 mins       ███████████░░░░░░░░░░░░░░   43.82 % 
-reverse-research         3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-wallet-auth-tool         2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-crawler-server           2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-auth-center-service      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+reverse-research         10 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   36.47 % 
+py-agentorder            8 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+wallet-auth-tool         3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+crawler-server           3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+auth-center-service      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 💻 Operating System: 
-Windows                  19 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 13:56:08 UTC
+ Last Updated on 30/06/2026 19:43:33 UTC
 <!--END_SECTION:waka-->
 
 
