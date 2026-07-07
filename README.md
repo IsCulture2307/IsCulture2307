@@ -1,7 +1,7 @@
 ## ⏱ Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -20,21 +20,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-🌆 Daytime                650 commits         ██████████░░░░░░░░░░░░░░░   41.51 % 
-🌃 Evening                624 commits         ██████████░░░░░░░░░░░░░░░   39.85 % 
+🌞 Morning                216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+🌆 Daytime                650 commits         ██████████░░░░░░░░░░░░░░░   41.48 % 
+🌃 Evening                625 commits         ██████████░░░░░░░░░░░░░░░   39.89 % 
 🌙 Night                  76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Tuesday                  253 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Wednesday                249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Thursday                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Friday                   278 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Saturday                 220 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Sunday                   160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Monday                   210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Tuesday                  254 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Wednesday                249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Thursday                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Friday                   278 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Saturday                 220 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Sunday                   160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 ```
 
 
@@ -44,28 +44,28 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Jupyter                  25 hrs 24 mins      ████████████░░░░░░░░░░░░░   46.20 % 
-Python                   21 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   39.28 % 
-Kotlin                   1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Go                       1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-textmate                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Python                   26 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.36 % 
+Jupyter                  19 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   34.59 % 
+Go                       3 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+textmate                 2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Kotlin                   1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 🔥 Editors: 
-PyCharm                  47 hrs 44 mins      ██████████████████████░░░   86.79 % 
-Android Studio           2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-VS Code                  2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-GoLand                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Trae                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+PyCharm                  47 hrs 22 mins      █████████████████████░░░░   83.35 % 
+VS Code                  4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Android Studio           2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+GoLand                   1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Claude Code              48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🐱‍💻 Projects: 
-reverse-research         25 hrs 14 mins      ███████████░░░░░░░░░░░░░░   45.89 % 
-crawler-server           11 hrs 31 mins      █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-wallet-auth-tool         10 hrs 5 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-auth-center-service      2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-FinoPay-v1.0             1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+reverse-research         19 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   34.27 % 
+crawler-server           17 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   30.68 % 
+wallet-auth-tool         10 hrs              ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+auth-center-service      4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+FinoPay-v1.0             1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 💻 Operating System: 
-Windows                  55 hrs              █████████████████████████   100.00 % 
+Windows                  56 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 14:07:24 UTC
+ Last Updated on 07/07/2026 19:41:24 UTC
 <!--END_SECTION:waka-->
 
 
