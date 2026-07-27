@@ -1,7 +1,9 @@
 ## ⏱ Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2047%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -68,6 +70,31 @@ Unknown Project          2 hrs 40 mins       ██░░░░░░░░░�
 Windows                  40 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 28 mins (11.08%)
+
+✍️ 2,966 lines written by AI, 70,962 lines written by hand (4.01% AI-written)
+
+🔤 32,465,351 Input Tokens, 175,075 Output Tokens
+
+💵 $164.23 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 212 AI Prompts
+
+Opus                     2,880 lines         ████████████████████████░   96.71 % 
+GPT                      88 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Deepseek                 10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 4.01% of written lines came from AI
+📄 Detailed Prompter — average 690 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🔍 Hands-On Reviewer — 96.01% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -85,7 +112,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 14:11:06 UTC
+ Last Updated on 27/07/2026 19:12:46 UTC
 <!--END_SECTION:waka-->
 
 
