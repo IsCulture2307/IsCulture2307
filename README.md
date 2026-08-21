@@ -1,9 +1,9 @@
 ## ⏱ Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,52 +46,52 @@ Sunday                   184 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   28 hrs 22 mins      █████████████████░░░░░░░░   67.46 % 
-Other                    7 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-textmate                 2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Kotlin                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Jupyter                  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Python                   24 hrs 59 mins      █████████████████░░░░░░░░   67.39 % 
+Other                    6 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+textmate                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Kotlin                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-PyCharm                  29 hrs 40 mins      ██████████████████░░░░░░░   70.57 % 
-VS Code                  7 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Trae                     2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Android Studio           1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Claude Code              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+PyCharm                  25 hrs 9 mins       █████████████████░░░░░░░░   67.85 % 
+VS Code                  7 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Trae                     2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Android Studio           1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Claude Code              57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🐱‍💻 Projects: 
-wallet-auth-tool         16 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   39.96 % 
-crawler-server           12 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-Unknown Project          7 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Amazon                   2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-auto-activate-otp        1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+crawler-server           13 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   35.41 % 
+wallet-auth-tool         12 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
+Unknown Project          6 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Amazon                   2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+auto-activate-otp        1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 💻 Operating System: 
-Windows                  42 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  37 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs (9.51%)
+⏱ AI Coding Time: 4 hrs 26 mins (12.0%)
 
-✍️ 342 lines written by AI, 131,536 lines written by hand (0.26% AI-written)
+✍️ 342 lines written by AI, 78,978 lines written by hand (0.43% AI-written)
 
-🔤 2,890,291 Input Tokens, 255,594 Output Tokens
+🔤 3,057,843 Input Tokens, 257,005 Output Tokens
 
-💵 $16.79 Estimated AI Cost This Week
+💵 $17.48 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 43 AI Prompts
+🧠 17 AI Sessions, 46 AI Prompts
 
 GPT                      17 lines            █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.26% of written lines came from AI
-📄 Detailed Prompter — average 1,100 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.43% of written lines came from AI
+📄 Detailed Prompter — average 1,048 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 99.71% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +111,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 18:23:44 UTC
+ Last Updated on 21/08/2026 00:41:35 UTC
 <!--END_SECTION:waka-->
 
 
