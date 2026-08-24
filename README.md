@@ -46,51 +46,51 @@ Sunday                   184 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   19 hrs 28 mins      █████████████████░░░░░░░░   67.30 % 
-Other                    5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Kotlin                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-textmate                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-HTML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Python                   19 hrs 14 mins      █████████████████░░░░░░░░   67.44 % 
+Other                    5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Kotlin                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+textmate                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+HTML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-PyCharm                  19 hrs 18 mins      █████████████████░░░░░░░░   66.69 % 
-VS Code                  6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Codex Vscode             1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Android Studio           58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Claude Code              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+PyCharm                  18 hrs 58 mins      █████████████████░░░░░░░░   66.49 % 
+VS Code                  6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Codex Vscode             1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Android Studio           58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Claude Code              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🐱‍💻 Projects: 
-crawler-server           12 hrs 34 mins      ███████████░░░░░░░░░░░░░░   43.46 % 
-Unknown Project          6 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-wallet-auth-tool         6 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-crawler-log-service      2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-auto-activate-otp        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+crawler-server           12 hrs 34 mins      ███████████░░░░░░░░░░░░░░   44.09 % 
+Unknown Project          6 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+wallet-auth-tool         6 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+crawler-log-service      2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+auto-activate-otp        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 💻 Operating System: 
-Windows                  28 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 53 mins (13.47%)
+⏱ AI Coding Time: 3 hrs 40 mins (12.89%)
 
-✍️ 289 lines written by AI, 35,452 lines written by hand (0.81% AI-written)
+✍️ 277 lines written by AI, 35,452 lines written by hand (0.78% AI-written)
 
-🔤 2,904,348 Input Tokens, 240,976 Output Tokens
+🔤 2,835,785 Input Tokens, 235,889 Output Tokens
 
-💵 $17.78 Estimated AI Cost This Week
+💵 $16.79 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 44 AI Prompts
+🧠 17 AI Sessions, 42 AI Prompts
 
-GPT                      226 lines           █████████████████████████   100.00 % 
+GPT                      213 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.81% of written lines came from AI
-📄 Detailed Prompter — average 672 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.78% of written lines came from AI
+📄 Detailed Prompter — average 698 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.89% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:15:18 UTC
+ Last Updated on 24/08/2026 00:40:47 UTC
 <!--END_SECTION:waka-->
 
 
