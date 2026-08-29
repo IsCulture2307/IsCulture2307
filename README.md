@@ -1,7 +1,7 @@
 ## ⏱ Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2012%20mins-blue?style=flat)
 
@@ -46,49 +46,49 @@ Sunday                   256 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 hrs 28 mins      █████████████░░░░░░░░░░░░   51.30 % 
-Jupyter                  6 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-Other                    4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Text                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-HTML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Python                   13 hrs 46 mins      ███████████░░░░░░░░░░░░░░   45.66 % 
+Jupyter                  7 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Other                    4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Text                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-PyCharm                  18 hrs 36 mins      ████████████████░░░░░░░░░   65.91 % 
-VS Code                  4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Codex Vscode             2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Trae                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-GoLand                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+PyCharm                  17 hrs 35 mins      ███████████████░░░░░░░░░░   58.36 % 
+Trae                     5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+VS Code                  4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Codex Vscode             2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+GoLand                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🐱‍💻 Projects: 
-crawler-server           11 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   39.12 % 
-reverse-research         9 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.37 % 
-Unknown Project          4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-crawler-log-service      2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Gpaybns                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+crawler-server           9 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.37 % 
+reverse-research         9 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.53 % 
+Unknown Project          4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Gpaybns                  3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+crawler-log-service      2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 💻 Operating System: 
-Windows                  28 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 14 mins (18.57%)
+⏱ AI Coding Time: 5 hrs 13 mins (17.3%)
 
-✍️ 1,555 lines written by AI, 4,078 lines written by hand (27.61% AI-written)
+✍️ 1,555 lines written by AI, 5,311 lines written by hand (22.65% AI-written)
 
-🔤 1,928,653 Input Tokens, 275,395 Output Tokens
+🔤 1,907,686 Input Tokens, 274,378 Output Tokens
 
-💵 $31.80 Estimated AI Cost This Week
+💵 $31.67 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 63 AI Prompts
+🧠 11 AI Sessions, 60 AI Prompts
 
 GPT                      1,686 lines         ████████████████████████░   96.79 % 
 Deepseek                 56 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 27.61% of written lines came from AI
-📝 Concise Prompter — average 413 characters per prompt
+🧑‍💻 Mostly Hands-On — 22.65% of written lines came from AI
+📝 Concise Prompter — average 378 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 99.7% of changed lines were hand-edited
 ```
@@ -110,7 +110,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 17:54:04 UTC
+ Last Updated on 29/08/2026 01:19:33 UTC
 <!--END_SECTION:waka-->
 
 
