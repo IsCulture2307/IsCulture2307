@@ -23,17 +23,17 @@
 
 ```text
 🌞 Morning                544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-🌆 Daytime                1685 commits        ███████████░░░░░░░░░░░░░░   42.54 % 
-🌃 Evening                1587 commits        ██████████░░░░░░░░░░░░░░░   40.07 % 
+🌆 Daytime                1685 commits        ███████████░░░░░░░░░░░░░░   42.53 % 
+🌃 Evening                1588 commits        ██████████░░░░░░░░░░░░░░░   40.08 % 
 🌙 Night                  145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   548 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Monday                   549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 Tuesday                  660 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Wednesday                602 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Thursday                 556 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Wednesday                602 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Thursday                 556 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
 Friday                   719 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
 Saturday                 567 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 Sunday                   309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
@@ -95,11 +95,11 @@ GPT                      435 lines           ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-Kotlin                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+Kotlin                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
@@ -109,7 +109,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 11:14:39 UTC
+ Last Updated on 14/09/2026 17:14:59 UTC
 <!--END_SECTION:waka-->
 
 
