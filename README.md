@@ -22,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                619 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-🌆 Daytime                1887 commits        ███████████░░░░░░░░░░░░░░   42.58 % 
-🌃 Evening                1768 commits        ██████████░░░░░░░░░░░░░░░   39.89 % 
-🌙 Night                  158 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+🌞 Morning                519 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+🌆 Daytime                1555 commits        ███████████░░░░░░░░░░░░░░   42.37 % 
+🌃 Evening                1461 commits        ██████████░░░░░░░░░░░░░░░   39.81 % 
+🌙 Night                  135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   614 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Tuesday                  736 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Wednesday                669 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Thursday                 624 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Friday                   820 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Saturday                 635 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Sunday                   334 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Monday                   508 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Tuesday                  593 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Wednesday                558 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Thursday                 513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Friday                   685 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Saturday                 526 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Sunday                   287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 ```
 
 
@@ -46,36 +46,36 @@ Sunday                   334 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 35 mins      ███████████░░░░░░░░░░░░░░   43.18 % 
-Jupyter                  10 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   30.31 % 
-Other                    3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Text                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Kotlin                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Python                   14 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   41.12 % 
+Jupyter                  10 hrs 48 mins      ████████░░░░░░░░░░░░░░░░░   31.23 % 
+Other                    3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Text                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Kotlin                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-PyCharm                  25 hrs 41 mins      ██████████████████░░░░░░░   71.18 % 
-VS Code                  4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Trae                     3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Android Studio           1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Codex Vscode             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+PyCharm                  24 hrs 11 mins      █████████████████░░░░░░░░   69.91 % 
+VS Code                  4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Trae                     3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Android Studio           1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Codex Vscode             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🐱‍💻 Projects: 
-reverse-research         9 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-crawler-server           8 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-wallet-auth-tool         3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Unknown Project          3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-py-agentorder            2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+reverse-research         8 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+crawler-server           8 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Unknown Project          3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+wallet-auth-tool         2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+py-agentorder            2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 
 💻 Operating System: 
-Windows                  36 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  34 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 32 mins (7.04%)
+⏱ AI Coding Time: 2 hrs 32 mins (7.34%)
 
-✍️ 49 lines written by AI, 13,466 lines written by hand (0.36% AI-written)
+✍️ 49 lines written by AI, 13,379 lines written by hand (0.36% AI-written)
 
 🔤 1,374,756 Input Tokens, 168,014 Output Tokens
 
@@ -91,7 +91,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 🧑‍💻 Mostly Hands-On — 0.36% of written lines came from AI
 📄 Detailed Prompter — average 588 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.72% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +111,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 15:06:10 UTC
+ Last Updated on 20/09/2026 19:58:37 UTC
 <!--END_SECTION:waka-->
 
 
