@@ -46,51 +46,51 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 41 mins       ████████████░░░░░░░░░░░░░   48.30 % 
-Other                    2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Text                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Jupyter                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Python                   10 hrs 22 mins      █████████████░░░░░░░░░░░░   51.94 % 
+Other                    2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Markdown                 2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Jupyter                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-PyCharm                  9 hrs 4 mins        █████████████░░░░░░░░░░░░   50.41 % 
-VS Code                  3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Trae                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Codex Vscode             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Android Studio           53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+PyCharm                  11 hrs 15 mins      ██████████████░░░░░░░░░░░   56.34 % 
+Trae                     3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+VS Code                  3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Codex Vscode             51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Android Studio           41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🐱‍💻 Projects: 
-crawler-server           9 hrs 2 mins        █████████████░░░░░░░░░░░░   50.24 % 
-Unknown Project          2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-ICICI                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Fam                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-reverse-research         50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+crawler-server           10 hrs 47 mins      ██████████████░░░░░░░░░░░   54.01 % 
+Unknown Project          2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Fam                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+reverse-research         1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+ICICI                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 💻 Operating System: 
-Windows                  17 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 55 mins (21.84%)
+⏱ AI Coding Time: 2 hrs 44 mins (13.71%)
 
-✍️ 323 lines written by AI, 3,360 lines written by hand (8.77% AI-written)
+✍️ 304 lines written by AI, 4,437 lines written by hand (6.41% AI-written)
 
-🔤 3,658,830 Input Tokens, 446,813 Output Tokens
+🔤 2,983,847 Input Tokens, 313,184 Output Tokens
 
-💵 $56.15 Estimated AI Cost This Week
+💵 $25.54 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 58 AI Prompts
+🧠 10 AI Sessions, 33 AI Prompts
 
-GPT                      226 lines           ████████████████░░░░░░░░░   64.94 % 
-Claude-Code              122 lines           █████████░░░░░░░░░░░░░░░░   35.06 % 
+GPT                      226 lines           ██████████████████░░░░░░░   70.40 % 
+Claude-Code              95 lines            ███████░░░░░░░░░░░░░░░░░░   29.60 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.77% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 92.18% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 6.41% of written lines came from AI
+📝 Concise Prompter — average 262 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 94.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 15:22:10 UTC
+ Last Updated on 26/09/2026 20:22:18 UTC
 <!--END_SECTION:waka-->
 
 
