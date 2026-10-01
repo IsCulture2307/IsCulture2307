@@ -23,17 +23,17 @@
 
 ```text
 🌞 Morning                413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-🌆 Daytime                1199 commits        ██████████░░░░░░░░░░░░░░░   41.95 % 
-🌃 Evening                1136 commits        ██████████░░░░░░░░░░░░░░░   39.75 % 
+🌆 Daytime                1199 commits        ██████████░░░░░░░░░░░░░░░   41.94 % 
+🌃 Evening                1137 commits        ██████████░░░░░░░░░░░░░░░   39.77 % 
 🌙 Night                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Tuesday                  455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Wednesday                452 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Thursday                 400 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Tuesday                  455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Wednesday                452 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Thursday                 401 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
 Friday                   516 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
 Saturday                 411 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 Sunday                   239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
@@ -46,51 +46,51 @@ Sunday                   239 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 29 mins      ███████████░░░░░░░░░░░░░░   44.27 % 
-Jupyter                  4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Other                    2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Markdown                 1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Text                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   9 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.61 % 
+Jupyter                  4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Other                    3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Smali                    1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Markdown                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 Editors: 
-PyCharm                  13 hrs 56 mins      ███████████████░░░░░░░░░░   58.81 % 
-Trae                     5 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-VS Code                  2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Codex Vscode             55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-GoLand                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+PyCharm                  13 hrs 8 mins       ██████████████░░░░░░░░░░░   55.46 % 
+Trae                     6 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+VS Code                  2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Codex Vscode             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Claude Code              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🐱‍💻 Projects: 
-crawler-server           9 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.78 % 
-reverse-research         4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Fam                      4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Unknown Project          2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Gpaybns                  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+crawler-server           8 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   37.44 % 
+reverse-research         4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Fam                      3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Gpaybns                  3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Unknown Project          2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 
 💻 Operating System: 
-Windows                  23 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 46 mins (11.73%)
+⏱ AI Coding Time: 2 hrs 6 mins (8.89%)
 
-✍️ 287 lines written by AI, 2,488 lines written by hand (10.34% AI-written)
+✍️ 16 lines written by AI, 2,341 lines written by hand (0.68% AI-written)
 
-🔤 3,913,514 Input Tokens, 198,664 Output Tokens
+🔤 3,687,223 Input Tokens, 94,012 Output Tokens
 
-💵 $13.30 Estimated AI Cost This Week
+💵 $10.18 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 47 AI Prompts
+🧠 10 AI Sessions, 45 AI Prompts
 
-GPT                      212 lines           █████████████████░░░░░░░░   69.06 % 
-Claude-Code              95 lines            ████████░░░░░░░░░░░░░░░░░   30.94 % 
+GPT                      10 lines            █████████████████░░░░░░░░   66.67 % 
+Claude-Code              5 lines             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.34% of written lines came from AI
-📝 Concise Prompter — average 365 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.68% of written lines came from AI
+📝 Concise Prompter — average 323 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 92.9% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 12:04:10 UTC
+ Last Updated on 01/10/2026 22:08:12 UTC
 <!--END_SECTION:waka-->
 
 
