@@ -46,50 +46,51 @@ Sunday                   239 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.47 % 
-Jupyter                  5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Other                    4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Text                     2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Smali                    1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Python                   10 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   38.22 % 
+Jupyter                  5 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Other                    3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Text                     3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Smali                    1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 🔥 Editors: 
-PyCharm                  14 hrs 6 mins       █████████████░░░░░░░░░░░░   50.53 % 
-Trae                     8 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.76 % 
-VS Code                  3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Codex Vscode             52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Claude Code              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+PyCharm                  14 hrs 19 mins      █████████████░░░░░░░░░░░░   51.14 % 
+Trae                     8 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
+VS Code                  3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Codex Vscode             1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Android Studio           36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🐱‍💻 Projects: 
-crawler-server           8 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.03 % 
-reverse-research         5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Fam                      3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Unknown Project          3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Gpaybns                  3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+crawler-server           8 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+reverse-research         5 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Gpaybns                  3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Unknown Project          2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Fam                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 💻 Operating System: 
-Windows                  27 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 2 mins (7.33%)
+⏱ AI Coding Time: 2 hrs 35 mins (9.23%)
 
-✍️ 21 lines written by AI, 4,901 lines written by hand (0.43% AI-written)
+✍️ 79 lines written by AI, 5,156 lines written by hand (1.51% AI-written)
 
-🔤 3,715,735 Input Tokens, 100,130 Output Tokens
+🔤 4,233,665 Input Tokens, 132,528 Output Tokens
 
-💵 $0.13 Estimated AI Cost This Week
+💵 $7.84 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 47 AI Prompts
+🧠 14 AI Sessions, 56 AI Prompts
 
-GPT                      10 lines            █████████████████████████   100.00 % 
+GPT                      68 lines            █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.43% of written lines came from AI
-📝 Concise Prompter — average 384 characters per prompt
+🧑‍💻 Mostly Hands-On — 1.51% of written lines came from AI
+📝 Concise Prompter — average 409 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.66% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +110,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 15:25:23 UTC
+ Last Updated on 03/10/2026 20:21:24 UTC
 <!--END_SECTION:waka-->
 
 
