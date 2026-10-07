@@ -46,51 +46,51 @@ Sunday                   239 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.00 % 
-Other                    3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Text                     3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Jupyter                  3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Smali                    1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Python                   7 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
+Text                     3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Other                    2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Jupyter                  1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Smali                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 Editors: 
-PyCharm                  11 hrs 31 mins      ████████████░░░░░░░░░░░░░   49.42 % 
-Trae                     6 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-VS Code                  2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Codex Vscode             1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Android Studio           36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+PyCharm                  9 hrs 4 mins        █████████████░░░░░░░░░░░░   50.91 % 
+Trae                     5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+VS Code                  2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Codex Vscode             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Android Studio           36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🐱‍💻 Projects: 
-crawler-server           7 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
-reverse-research         3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Gpaybns                  3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Unknown Project          2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Bharatbns                2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+crawler-server           6 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.93 % 
+Bharatbns                2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Gpaybns                  2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Unknown Project          1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+reverse-research         1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 
 💻 Operating System: 
-Windows                  23 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 29 mins (10.68%)
+⏱ AI Coding Time: 1 hr 18 mins (7.35%)
 
-✍️ 79 lines written by AI, 4,382 lines written by hand (1.77% AI-written)
+✍️ 79 lines written by AI, 4,180 lines written by hand (1.85% AI-written)
 
-🔤 3,423,966 Input Tokens, 122,276 Output Tokens
+🔤 1,915,727 Input Tokens, 72,401 Output Tokens
 
-💵 $7.84 Estimated AI Cost This Week
+💵 $7.75 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 52 AI Prompts
+🧠 8 AI Sessions, 28 AI Prompts
 
 GPT                      68 lines            █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.77% of written lines came from AI
-📝 Concise Prompter — average 430 characters per prompt
+🧑‍💻 Mostly Hands-On — 1.85% of written lines came from AI
+📝 Concise Prompter — average 364 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 98.58% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 12:18:32 UTC
+ Last Updated on 07/10/2026 22:27:01 UTC
 <!--END_SECTION:waka-->
 
 
