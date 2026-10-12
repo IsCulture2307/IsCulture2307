@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 706.2 kB Used in GitHub's Storage 
+> 📦 706.3 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2026
  > 
@@ -22,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                414 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-🌆 Daytime                1216 commits        ███████████░░░░░░░░░░░░░░   42.19 % 
-🌃 Evening                1142 commits        ██████████░░░░░░░░░░░░░░░   39.63 % 
-🌙 Night                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+🌞 Morning                414 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+🌆 Daytime                1216 commits        ███████████░░░░░░░░░░░░░░   42.15 % 
+🌃 Evening                1145 commits        ██████████░░░░░░░░░░░░░░░   39.69 % 
+🌙 Night                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Tuesday                  455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Wednesday                450 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Thursday                 403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Friday                   523 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Saturday                 426 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Sunday                   239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Monday                   389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Tuesday                  455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Wednesday                450 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Thursday                 403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Friday                   523 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Saturday                 426 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Sunday                   239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 ```
 
 
@@ -46,36 +46,36 @@ Sunday                   239 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.40 % 
-Other                    4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
-JavaScript               1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Jupyter                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Text                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Python                   8 hrs               █████████░░░░░░░░░░░░░░░░   37.80 % 
+Other                    4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Jupyter                  3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+JavaScript               1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Text                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.28 % 
-Trae                     4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.01 % 
-VS Code                  3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Android Studio           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+PyCharm                  10 hrs 5 mins       ████████████░░░░░░░░░░░░░   47.62 % 
+Trae                     6 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
+VS Code                  3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Android Studio           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-Fam                      4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.01 % 
-crawler-server           4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.96 % 
-Unknown Project          3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-reverse-research         54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-auto-activate-otp        35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Fam                      5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+crawler-server           5 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Unknown Project          3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+reverse-research         2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+wallet-auth-tool         1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 
 💻 Operating System: 
-Windows                  14 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (3.2%)
+⏱ AI Coding Time: 27 mins (2.2%)
 
-✍️ 11 lines written by AI, 18,991 lines written by hand (0.06% AI-written)
+✍️ 11 lines written by AI, 21,365 lines written by hand (0.05% AI-written)
 
 🔤 1,532,124 Input Tokens, 38,631 Output Tokens
 
@@ -86,10 +86,10 @@ Windows                  14 hrs 31 mins      ███████████�
 GPT                      10 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.06% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.05% of written lines came from AI
 📄 Detailed Prompter — average 528 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 99.95% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +109,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 13:53:02 UTC
+ Last Updated on 12/10/2026 23:58:17 UTC
 <!--END_SECTION:waka-->
 
 
