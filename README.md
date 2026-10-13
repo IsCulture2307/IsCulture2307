@@ -22,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-🌆 Daytime                1213 commits        ███████████░░░░░░░░░░░░░░   42.13 % 
-🌃 Evening                1143 commits        ██████████░░░░░░░░░░░░░░░   39.70 % 
-🌙 Night                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+🌞 Morning                413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+🌆 Daytime                1213 commits        ███████████░░░░░░░░░░░░░░   42.02 % 
+🌃 Evening                1151 commits        ██████████░░░░░░░░░░░░░░░   39.87 % 
+🌙 Night                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Tuesday                  455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Wednesday                447 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Thursday                 402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Friday                   522 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Saturday                 426 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Sunday                   238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Monday                   389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Tuesday                  463 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Wednesday                447 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Thursday                 402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Friday                   522 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Saturday                 426 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Sunday                   238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 ```
 
 
@@ -46,36 +46,36 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs               █████████░░░░░░░░░░░░░░░░   37.80 % 
-Other                    4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Jupyter                  3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-JavaScript               1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Text                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Python                   8 hrs               █████████░░░░░░░░░░░░░░░░   35.11 % 
+Other                    5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+Jupyter                  3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+JavaScript               2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔥 Editors: 
-PyCharm                  10 hrs 5 mins       ████████████░░░░░░░░░░░░░   47.62 % 
-Trae                     6 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
-VS Code                  3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Android Studio           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+PyCharm                  10 hrs 40 mins      ████████████░░░░░░░░░░░░░   46.80 % 
+Trae                     7 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
+VS Code                  3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Android Studio           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-Fam                      5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-crawler-server           5 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Unknown Project          3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-reverse-research         2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-wallet-auth-tool         1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Fam                      5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+crawler-server           5 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Unknown Project          3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+reverse-research         2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+wallet-auth-tool         1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 
 💻 Operating System: 
-Windows                  21 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (2.2%)
+⏱ AI Coding Time: 27 mins (2.04%)
 
-✍️ 11 lines written by AI, 21,365 lines written by hand (0.05% AI-written)
+✍️ 11 lines written by AI, 24,373 lines written by hand (0.05% AI-written)
 
 🔤 1,532,124 Input Tokens, 38,631 Output Tokens
 
@@ -109,7 +109,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 13:10:53 UTC
+ Last Updated on 13/10/2026 22:05:52 UTC
 <!--END_SECTION:waka-->
 
 
