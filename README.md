@@ -1,7 +1,7 @@
 ## ⏱ Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-589%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2033%20mins-blue?style=flat)
 
@@ -46,36 +46,36 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 hrs 45 mins      ████████████░░░░░░░░░░░░░   49.79 % 
-Jupyter                  4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Other                    3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-JavaScript               2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Markdown                 1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Python                   17 hrs              ██████████████░░░░░░░░░░░   55.33 % 
+Jupyter                  6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Other                    3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+INI                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+HTML                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-PyCharm                  20 hrs 2 mins       █████████████████░░░░░░░░   67.64 % 
-Trae                     4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-VS Code                  3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Android Studio           57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Codex Vscode             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+PyCharm                  23 hrs 56 mins      ███████████████████░░░░░░   77.94 % 
+VS Code                  2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Trae                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Android Studio           1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Codex Vscode             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🐱‍💻 Projects: 
-wallet-auth-tool         8 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-py-agentorder            6 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Unknown Project          3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-crawler-server           3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-reverse-research         2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+wallet-auth-tool         10 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   32.77 % 
+py-agentorder            6 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+reverse-research         3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+crawler-server           3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Unknown Project          2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 
 💻 Operating System: 
-Windows                  29 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (3.18%)
+⏱ AI Coding Time: 56 mins (3.07%)
 
-✍️ 84 lines written by AI, 14,550 lines written by hand (0.57% AI-written)
+✍️ 84 lines written by AI, 17,621 lines written by hand (0.47% AI-written)
 
 🔤 577,919 Input Tokens, 45,693 Output Tokens
 
@@ -86,10 +86,10 @@ Windows                  29 hrs 38 mins      ███████████�
 GPT                      6 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.57% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.47% of written lines came from AI
 📝 Concise Prompter — average 293 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.22% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +109,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 16:19:18 UTC
+ Last Updated on 21/10/2026 21:02:37 UTC
 <!--END_SECTION:waka-->
 
 
