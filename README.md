@@ -46,49 +46,49 @@ Sunday                   250 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 12 mins      ████████████░░░░░░░░░░░░░   47.17 % 
-Jupyter                  5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Other                    4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Kotlin                   1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Java                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Python                   11 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   37.24 % 
+Jupyter                  5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Other                    5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Kotlin                   2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Java                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-PyCharm                  23 hrs 12 mins      █████████████████░░░░░░░░   67.55 % 
-Trae                     4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-VS Code                  3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Android Studio           2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-GoLand                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+PyCharm                  18 hrs 29 mins      ███████████████░░░░░░░░░░   58.78 % 
+Trae                     5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+VS Code                  3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Android Studio           3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+GoLand                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🐱‍💻 Projects: 
-wallet-auth-tool         9 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-py-agentorder            6 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-crawler-server           3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Unknown Project          3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-reverse-research         2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+wallet-auth-tool         9 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+Unknown Project          3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+py-agentorder            3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+crawler-server           3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+reverse-research         2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 💻 Operating System: 
-Windows                  34 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (2.08%)
+⏱ AI Coding Time: 35 mins (1.87%)
 
-✍️ 78 lines written by AI, 156,655 lines written by hand (0.05% AI-written)
+✍️ 82 lines written by AI, 156,249 lines written by hand (0.05% AI-written)
 
-🔤 429,183 Input Tokens, 32,885 Output Tokens
+🔤 295,517 Input Tokens, 28,196 Output Tokens
 
-💵 $0.89 Estimated AI Cost This Week
+💵 $0.72 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 6 AI Sessions, 13 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.05% of written lines came from AI
-📝 Concise Prompter — average 452 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 456 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 99.98% of changed lines were hand-edited
 ```
 
@@ -109,7 +109,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 15:04:08 UTC
+ Last Updated on 24/10/2026 19:59:45 UTC
 <!--END_SECTION:waka-->
 
 
