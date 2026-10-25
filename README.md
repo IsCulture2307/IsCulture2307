@@ -46,28 +46,28 @@ Sunday                   250 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   37.24 % 
-Jupyter                  5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Other                    5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Kotlin                   2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Java                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Python                   11 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   37.20 % 
+Jupyter                  5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Other                    5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Kotlin                   2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Java                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-PyCharm                  18 hrs 29 mins      ███████████████░░░░░░░░░░   58.78 % 
-Trae                     5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-VS Code                  3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Android Studio           3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+PyCharm                  18 hrs 29 mins      ███████████████░░░░░░░░░░   58.71 % 
+Trae                     5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+VS Code                  3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Android Studio           3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 GoLand                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🐱‍💻 Projects: 
-wallet-auth-tool         9 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-Unknown Project          3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-py-agentorder            3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-crawler-server           3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-reverse-research         2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+wallet-auth-tool         9 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+Unknown Project          3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+py-agentorder            3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+crawler-server           3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+reverse-research         2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 
 💻 Operating System: 
-Windows                  31 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,7 +109,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 15:16:15 UTC
+ Last Updated on 25/10/2026 20:09:43 UTC
 <!--END_SECTION:waka-->
 
 
