@@ -1,9 +1,9 @@
 ## ⏱ Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-138%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-138%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,48 +46,48 @@ Sunday                   250 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   37.27 % 
-Jupyter                  6 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Other                    5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Kotlin                   3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Java                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Python                   13 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   38.65 % 
+Other                    6 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Jupyter                  4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Kotlin                   2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Text                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🔥 Editors: 
-PyCharm                  20 hrs 15 mins      ███████████████░░░░░░░░░░   58.75 % 
-VS Code                  5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Trae                     4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Android Studio           3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-GoLand                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+PyCharm                  18 hrs 17 mins      █████████████░░░░░░░░░░░░   53.81 % 
+VS Code                  6 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Trae                     5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Android Studio           3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+GoLand                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🐱‍💻 Projects: 
-crawler-server           10 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   30.66 % 
-reverse-research         5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Unknown Project          5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-auto-activate-otp        3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-wallet-auth-tool         3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+crawler-server           12 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   36.63 % 
+Unknown Project          6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+reverse-research         4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+auto-activate-otp        3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+AirtelMerchant           2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 
 💻 Operating System: 
-Windows                  34 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (5.44%)
+⏱ AI Coding Time: 2 hrs 3 mins (6.04%)
 
-✍️ 108 lines written by AI, 223,572 lines written by hand (0.05% AI-written)
+✍️ 119 lines written by AI, 219,223 lines written by hand (0.05% AI-written)
 
-🔤 1,431,076 Input Tokens, 112,584 Output Tokens
+🔤 4,063,738 Input Tokens, 141,488 Output Tokens
 
 💵 $2.15 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 23 AI Prompts
+🧠 9 AI Sessions, 27 AI Prompts
 
 GPT                      173 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.05% of written lines came from AI
-📝 Concise Prompter — average 274 characters per prompt
+📄 Detailed Prompter — average 816 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 99.97% of changed lines were hand-edited
 ```
@@ -109,7 +109,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 17:39:10 UTC
+ Last Updated on 28/10/2026 22:01:31 UTC
 <!--END_SECTION:waka-->
 
 
