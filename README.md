@@ -1,7 +1,7 @@
 ## ⏱ Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-138%20hrs%2036%20mins-blue?style=flat)
 
@@ -46,36 +46,36 @@ Sunday                   250 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   38.65 % 
-Other                    6 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Jupyter                  4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Kotlin                   2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Text                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Python                   15 hrs 22 mins      ███████████░░░░░░░░░░░░░░   45.24 % 
+Other                    6 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Jupyter                  4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Kotlin                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Text                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🔥 Editors: 
-PyCharm                  18 hrs 17 mins      █████████████░░░░░░░░░░░░   53.81 % 
-VS Code                  6 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Trae                     5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Android Studio           3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-GoLand                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+PyCharm                  20 hrs 27 mins      ███████████████░░░░░░░░░░   60.21 % 
+Trae                     5 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+VS Code                  5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Android Studio           1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Claude Code              21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🐱‍💻 Projects: 
-crawler-server           12 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   36.63 % 
-Unknown Project          6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-reverse-research         4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-auto-activate-otp        3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-AirtelMerchant           2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+crawler-server           14 hrs 24 mins      ███████████░░░░░░░░░░░░░░   42.39 % 
+Unknown Project          5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+reverse-research         4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Fam                      2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+AirtelMerchant           1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 💻 Operating System: 
-Windows                  34 hrs              █████████████████████████   100.00 % 
+Windows                  33 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (6.04%)
+⏱ AI Coding Time: 2 hrs 3 mins (6.05%)
 
-✍️ 119 lines written by AI, 219,223 lines written by hand (0.05% AI-written)
+✍️ 119 lines written by AI, 220,190 lines written by hand (0.05% AI-written)
 
 🔤 4,063,738 Input Tokens, 141,488 Output Tokens
 
@@ -109,7 +109,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IsCulture2307/IsCulture2307/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 17:55:57 UTC
+ Last Updated on 29/10/2026 22:14:01 UTC
 <!--END_SECTION:waka-->
 
 
